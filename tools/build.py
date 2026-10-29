@@ -24,15 +24,15 @@ ITERATIONS = 600_000
 
 HERO = {
     "ru": {
-        "eyebrow": "KenyaESG · справочник для партнёров и клиентов · версия 2, 29.10.2026",
-        "lede": "Что такое ESG и углеродный учёт, какие обязанности реально есть у кенийского завода, кто кого заставляет отчитываться, где теряются деньги и что может, а что не может сделать программа. Исходный текст проверен и исправлен; все исправления собраны в разделе 0.",
+        "eyebrow": "KenyaESG · справочник для партнёров и клиентов · обновлено 29.10.2026",
+        "lede": "Что такое ESG и углеродный учёт, какие обязанности реально есть у кенийского завода, кто кого заставляет отчитываться, где теряются деньги и что может, а что не может сделать программа. Частые ошибки и мифы собраны в конце, в разделе 9.",
         "legend": ["проверено по первоисточнику", "вторичные источники", "не подтверждено, проверить перед публикацией"],
         "toc": "Содержание",
         "badges": ["проверено", "вторичный источник", "не подтверждено"],
     },
     "en": {
-        "eyebrow": "KenyaESG · guide for partners and clients · version 2, 29 Oct 2026",
-        "lede": "What ESG and carbon accounting are, which duties a Kenyan factory really has, who makes whom report, where money is lost, and what software can and cannot do. The original text was checked and corrected; all corrections are collected in section 0.",
+        "eyebrow": "KenyaESG · guide for partners and clients · updated 29 Oct 2026",
+        "lede": "What ESG and carbon accounting are, which duties a Kenyan factory really has, who makes whom report, where money is lost, and what software can and cannot do. Common mistakes and myths are collected at the end, in section 9.",
         "legend": ["checked against the primary source", "secondary sources", "not confirmed, check before publishing"],
         "toc": "Contents",
         "badges": ["checked", "secondary source", "not confirmed"],
